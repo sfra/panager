@@ -1,4 +1,4 @@
-# README
+# Panager
 Panager is a client of sql database containing pdf or image file as a blob field. It
 is written in QT4 framework. As it can display content of pdf files
 it has libpoppler-qt4 as dependency. 
@@ -46,5 +46,3 @@ The fields  contains the names of sql column's names separated by comma, and exa
 (file in the above example). This field is of sql type BLOB, and MUST contain pdf or image data (png, jpg).
 keySearch equals to one of the non-BLOB field which is used in interactive search (which is activated only
  if live checkbox is marked). Each table must fulfill one constrain: the first column is autoincremented primary key.
-
-

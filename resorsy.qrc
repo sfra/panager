@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>background.png</file>
+        <file>button.png</file>
+        <file>button_hover.png</file>
+        <file>ico.ico</file>
+        <file>ico.png</file>
+        <file>icol.ico</file>
+    </qresource>
+    <qresource prefix="/new/images">
+        <file>button2Nac.png</file>
+        <file>button2.png</file>
+        <file>button2m.png</file>
+        <file>button2Nacm.png</file>
+        <file>close.png</file>
+    </qresource>
+</RCC>
